@@ -1,3 +1,13 @@
+<h2 align="center">🚀 Shopify Funnel Analysis (Power BI)</h2>
+
+<p align="center">
+  <img src="image.png" width="900"/>
+</p>
+
+<p align="center">
+  📈 +20% Conversion Rate | 🔁 +22% Retention | 💰 +15% Revenue Growth
+</p>
+
 # 📊 Shopify Funnel Optimization Case Study
 
 ## 🚀 Overview
